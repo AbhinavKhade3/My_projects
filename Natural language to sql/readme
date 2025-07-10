@@ -1,0 +1,4 @@
+1. Create Virtual Environment ----> py -3.10 -m venv .venv (in cmd)
+2. Install requirements.txt ---> pip install -r requirements.txt (in cmd)
+2. Activate Virtula Environment ----> .venv\Script\activate (in cmd)
+3. To run ----> streamlit run app.py (in cmd)
